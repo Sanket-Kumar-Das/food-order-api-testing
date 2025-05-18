@@ -101,6 +101,7 @@ Notes:
 JSON-server is used as a mock API; it does not validate payloads strictly.
 This project is focused on API request structure, response status validation, and understanding typical backend API behaviors.
 
-Video Demo
+Video Demo:
+
 The full execution and testing process is recorded and uploaded on YouTube:
 https://youtu.be/M3-B3kjW5Bk 
