@@ -1,0 +1,136 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "customer_name": "Sanket Das",
+      "items": [
+        {
+          "name": "Burger",
+          "price": 150,
+          "quantity": 2
+        },
+        {
+          "name": "Fries",
+          "price": 80,
+          "quantity": 1
+        }
+      ],
+      "restaurant_id": 101,
+      "delivery_address": "Lovely Professional University, Punjab",
+      "total_price": 380
+    },
+    {
+      "id": "2",
+      "customer_name": "Rohan Sharma",
+      "items": [
+        {
+          "name": "Pizza",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "name": "Cold Drink",
+          "price": 60,
+          "quantity": 2
+        }
+      ],
+      "restaurant_id": 102,
+      "delivery_address": "GT Road, Jalandhar",
+      "total_price": 420
+    },
+    {
+      "id": "3",
+      "customer_name": "Ananya Singh",
+      "items": [
+        {
+          "name": "Paneer Roll",
+          "price": 120,
+          "quantity": 1
+        },
+        {
+          "name": "Lassi",
+          "price": 60,
+          "quantity": 1
+        }
+      ],
+      "restaurant_id": 103,
+      "delivery_address": "Phase 8, Mohali",
+      "total_price": 180
+    },
+    {
+      "id": "3",
+      "customer_name": "Riya",
+      "items": "Burger, Fries",
+      "restaurant_id": 104,
+      "total_price": 300
+    },
+    {
+      "id": "3",
+      "customer_name": "Riya",
+      "items": "Burger, Fries",
+      "restaurant_id": 104,
+      "total_price": 300
+    },
+    {
+      "id": "e64d"
+    },
+    {
+      "id": "78e7"
+    },
+    {
+      "id": "3",
+      "customer_name": "Riya",
+      "items": "Burger, Fries",
+      "restaurant_id": 104,
+      "total_price": 300
+    },
+    {
+      "id": "3",
+      "customer_name": "Riya",
+      "items": "Burger, Fries",
+      "restaurant_id": 104,
+      "total_price": 300
+    },
+    {
+      "id": "af2a"
+    },
+    {
+      "id": "a860"
+    },
+    {
+      "id": "5",
+      "customer_name": "Arppan",
+      "items": "Cola, Fries",
+      "restaurant_id": 145,
+      "total_price": 100
+    },
+    {
+      "id": "5",
+      "customer_name": "Arppan",
+      "items": "Cola, Fries",
+      "restaurant_id": 145,
+      "total_price": 100
+    },
+    {
+      "id": "5",
+      "customer_name": "Arppan",
+      "items": "Cola, Fries",
+      "restaurant_id": 145,
+      "total_price": 100
+    },
+    {
+      "id": "5",
+      "customer_name": "Arppan",
+      "items": "Cola, Fries",
+      "restaurant_id": 145,
+      "total_price": 100
+    },
+    {
+      "id": "5",
+      "customer_name": "Arppan",
+      "items": "Cola, Fries",
+      "restaurant_id": 145,
+      "total_price": 100
+    }
+  ]
+}
