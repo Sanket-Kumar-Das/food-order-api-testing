@@ -77,11 +77,17 @@ How to Test Invalid Payloads
 Example of invalid POST request body:
 
 {
+
   "id": 3,
+  
   "customer_name": "Riya",
+  
   "items": "Burger, Fries",   // Incorrect: items should be an array
+  
   "restaurant_id": 104,
+  
   "total_price": 300
+  
 }
 
 Expected behavior in real-world API:
@@ -90,7 +96,8 @@ Return 400 Bad Request with validation error.
 Actual behavior with JSON-server:
 Returns 201 Created (no validation enforcement).
 
-Notes
+Notes:
+
 JSON-server is used as a mock API; it does not validate payloads strictly.
 This project is focused on API request structure, response status validation, and understanding typical backend API behaviors.
 
